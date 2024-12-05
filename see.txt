@@ -1,0 +1,13 @@
+ 
+
+
+
+
+
+1.  Xampp Control pannel open karayach
+2.  Apache and MySQl la start karayache
+3.  My SQL samor admin vr click karayach
+4. navin atabase create karayacha
+5. import mahdhe jaun(top la) users import karayacha
+6. now in browser url paste this 
+   http://localhost/practical1/register.html
